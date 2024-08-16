@@ -1,8 +1,8 @@
-# pflow_pr
-pflow 팀 프로젝트 기록
-</br>0807.html 
+# Pflow_pr
+<h2>Pflow 팀 프로젝트 기록</h2>
+</br>0807.html
 </br>제티 코드 
-</br>2024_box.html 
+</br>2024_box.html
 </br>box페이지 연습 (상자3개)
 </br>Resume1~6 
 </br>팀플및 예제파일 
