@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>여러 개의 박스</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* 전체 화면 높이 */
+            background-color: #f4f4f9;
+        }
+        .outer-box {
+            width: 740px;
+            height: 337px;
+            background-color: #3f56e8;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            flex-shrink: 0;
+        }
+        .inner-box {
+            width: 203px;
+            height: 327px;
+            background-color: #e8e33f;
+            flex-shrink: 0;
+        }
+        .inner-box {
+            
+        }
+
+    </style>
+
+</head>
+<body>
+    <div class="container">
+        <div class="outer-box">
+            <div class="inner-box"></div>
+            <div class="inner-box"></div>
+            <div class="inner-box"></div>
+        </div>
+    </div>
+</body>
+</html>
